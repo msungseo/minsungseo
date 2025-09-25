@@ -12,17 +12,6 @@ In addition open RStudio and update to the latest version by clicking "Help" "Ch
 
 *If you have any difficulties or have feedback of any kind, please file an issue or communicate through [Discussions](https://github.com/jtr13/website-template/discussions).*
 
-
-### Render the web site (RStudio)
-
-- [ ] 1. If you haven't already, click "Help" "Check for Updates" to make sure you have the latest version of RStudio (and thus have Quarto installed.)
-
-- [ ] 2. Render the web site locally by clicking the "Build" tap on the right and then "Render Website".
-
-- [ ] 3. Use `browseURL("docs/index.html")` to view your site locally (or just open `docs/index.html` in a browser).
-
-- [ ] 4. If it looks good, commit and push all changed files to GitHub. 
-
 (You will need to repeat steps 2 and 4 every time you wish to update the book online.)
 
 ### Next steps

@@ -1,19 +1,17 @@
 ---
-title: "About Me"
-about:
-  id: me
-  template: broadside
-  image: img/profile.png
+title: "Home"
+page-layout: article
 ---
 
-:::{#me}
+# Hi, I’m Min Sung Seo 👋
+A cognitive psycholog/neuroscient-ist investigating memory and aging.
 
-## Goals
+- **Current**: Postdoc @ Penn State (start Aug 2025).
+- **Interests**: Episodic memory, cognitive aging, fMRI.
 
-## Education
+## Selected Projects
+See the full list on the [Projects](projects.qmd) page.
 
-## Experience
-
+::: {.callout-note}
+I’m recruiting older adults for a study—get in touch!
 :::
-
-Thanks for checking out my web site!

@@ -1,27 +1,54 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
   title: "Min Sung Seo"
+  site-url: https://msungseo.github.io/minsungseo
+  repo-url: https://github.com/msungseo/minsungseo
+  repo-actions: [issue]           # show small “open issue” button (optional)
   navbar:
+    logo: assets/logo.png         # optional; add your file to assets/
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - href: projects.qmd
+        text: Projects
+    right:
+      - text: CV
+        href: cv.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/
       - icon: github
         href: https://github.com/msungseo/minsungseo
+      - icon: envelope
+        href: mailto:min@example.com   # update to your email
   page-footer:
+    left: "&copy; 2025 Min Sung Seo"
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2025, Min Sung Seo"
 
 format:
   html:
-    theme: cerulean
+    theme:
+      light: flatly
     toc: true
+    page-navigation: true
+    smooth-scroll: true
+    code-fold: true
+    code-tools: true
+    anchor-sections: true
+    favicon: assets/favicon.ico
+    css: styles.css                # create this to tweak colors/spacing
+
+# Optional: enable site search
+search: true
+
+# Optional: a “projects” collection with cards
+collections:
+  projects:
+    categories: true
+    feed: false
+    sort: "date desc"
 
 editor: source
-

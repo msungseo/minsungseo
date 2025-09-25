@@ -1,0 +1,20 @@
+---
+title: "About Me"
+---
+
+# About Me
+
+Hi, I’m **Min Sung Seo** 👋  
+
+I’m a cognitive psychology researcher interested in **memory, aging, and prediction error**.  
+My work combines **behavioral experiments** and **fMRI** to understand how prediction errors shape memory updating, with a particular focus on age-related differences.  
+
+## Quick Facts
+- 🎓 Ph.D. Candidate in Cognitive Psychology, UNC Chapel Hill (2025)  
+- 📍 Incoming Postdoc at Penn State (starting Aug 2025)  
+- 🧠 Research Interests: Episodic memory, predictive processing, hippocampal subfields  
+
+## Contact
+- 📧 [Email me](mailto:your@email.com)  
+- 🐦 [Twitter](https://twitter.com/)  
+- 💻 [GitHub](https://github.com/msungseo/minsungseo)  
