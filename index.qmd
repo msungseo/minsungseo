@@ -1,17 +1,7 @@
 ---
-title: "Home"
+title: "Min Sung Seo"
 page-layout: article
 ---
+I am a cognitive psychologist / neuroscientist investigating memory and aging.
 
-# Hi, I’m Min Sung Seo 👋
-A cognitive psycholog/neuroscient-ist investigating memory and aging.
-
-- **Current**: Postdoc @ Penn State (start Aug 2025).
-- **Interests**: Episodic memory, cognitive aging, fMRI.
-
-## Selected Projects
-See the full list on the [Projects](projects.qmd) page.
-
-::: {.callout-note}
-I’m recruiting older adults for a study—get in touch!
-:::
+- **Current**: Postdoc @ Penn State.

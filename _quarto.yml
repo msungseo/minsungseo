@@ -12,8 +12,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: Person
       - href: projects.qmd
-        text: Projects
+        text: Research
+      - href: publications.qmd
+        text: Publications  
     right:
       - text: CV
         href: cv.qmd

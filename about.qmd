@@ -1,0 +1,6 @@
+---
+title: "About Me"
+---
+Hi, I’m **Min Sung Seo** 👋  
+
+I’m a cognitive neuroscientist  interested in memory and aging.

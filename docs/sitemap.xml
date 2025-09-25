@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://msungseo.github.io/minsungseo/index.html</loc>
-    <lastmod>2025-09-25T23:37:02.581Z</lastmod>
+    <loc>https://msungseo.github.io/minsungseo/about.html</loc>
+    <lastmod>2025-09-25T23:52:34.745Z</lastmod>
   </url>
   <url>
-    <loc>https://msungseo.github.io/minsungseo/aboutme.html</loc>
-    <lastmod>2025-09-25T23:42:59.580Z</lastmod>
+    <loc>https://msungseo.github.io/minsungseo/index.html</loc>
+    <lastmod>2025-09-25T23:55:12.436Z</lastmod>
   </url>
   <url>
     <loc>https://msungseo.github.io/minsungseo/projects.html</loc>
     <lastmod>2025-09-25T23:04:59.651Z</lastmod>
+  </url>
+  <url>
+    <loc>https://msungseo.github.io/minsungseo/publications.html</loc>
+    <lastmod>2025-09-25T23:53:08.050Z</lastmod>
   </url>
 </urlset>
