@@ -1,6 +1,7 @@
 ---
 title: "Min Sung Seo"
 page-layout: article
+toc: false
 ---
 I am a cognitive psychologist / neuroscientist investigating memory and aging.
 
