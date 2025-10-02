@@ -6,4 +6,4 @@ toc: false
 
 <img src="img/Seo_Photo.jpeg" style="width:180px; float:left; margin:0 15px 15px 0;">
 
-I am a cognitive psychologist / neuroscientist investigating memory and aging.
+Welcome to my personal website. Please roam freely.
