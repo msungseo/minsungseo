@@ -1,6 +1,8 @@
 ---
 title: "About Me"
 ---
-Hi, I’m **Min Sung Seo** 👋  
 
-I’m a cognitive neuroscientist  interested in memory and aging.
+<img src="img/Seo_Photo.jpeg" style="width:180px; float:left; margin:0 15px 15px 0;">
+
+Hi, I’m **Min Sung Seo** 👋, a cognitive neuroscientist investigating memory and aging.
+Here is my [CV](img/CV_Seo_082525.pdf).

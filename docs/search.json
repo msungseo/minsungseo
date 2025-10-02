@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "Hi, I’m Min Sung Seo 👋\nI’m a cognitive neuroscientist interested in memory and aging."
+    "text": "Here is the PDF file displayed directly on the page. You can scroll within the document.\n\n\nThe text on your page continues down here…"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Min Sung Seo",
+    "objectID": "cv.html#embedded-document",
+    "href": "cv.html#embedded-document",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "I am a cognitive psychologist / neuroscientist investigating memory and aging."
+    "text": "Here is the PDF file displayed directly on the page. You can scroll within the document.\n\n\nThe text on your page continues down here…"
   },
   {
     "objectID": "projects.html#project-2",
@@ -26,5 +26,19 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\nWelcome to my personal website. Please roam freely."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi, I’m Min Sung Seo 👋, a cognitive neuroscientist investigating memory and aging. Here is my CV."
   }
 ]

@@ -1,0 +1,13 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+## Embedded Document
+
+Here is the PDF file displayed directly on the page. You can scroll within the document.
+
+<iframe src="data/CV_Seo_082525.pdf" width="100%" height="800px" style="border:none;">
+</iframe>
+
+The text on your page continues down here...

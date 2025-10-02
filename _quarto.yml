@@ -18,16 +18,13 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications  
-    right:
-      - text: CV
-        href: cv.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/
       - icon: github
         href: https://github.com/msungseo/minsungseo
       - icon: envelope
-        href: mailto:min@example.com   # update to your email
+        href: mailto:mks7518@psu.edu   # update to your email
   page-footer:
     left: "&copy; 2025 Min Sung Seo"
     right: "Built with [Quarto](https://quarto.org/)"
